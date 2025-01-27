@@ -5,8 +5,8 @@
 Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. Combino una sólida formación en matemáticas con herramientas modernas de análisis de datos y machine learning. Mi enfoque es estructurado, analítico y orientado a resolver problemas complejos con soluciones funcionales y aplicables.  
 ## 💻 ¿Qué encontrarás aquí?  
 En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales.  
-## ✨ Mi objetivo
-Más que escribir código, busco conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico.
+## ✨ Mi propósito
+Conectar ideas, descubrir nuevas posibilidades y convertir preguntas en respuestas útiles para generar impacto.
 ### 🛠 Skills  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=flat)
