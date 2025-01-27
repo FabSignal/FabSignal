@@ -6,17 +6,13 @@ Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. C
 ## 💻 ¿Qué encontrarás aquí?  
 En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales.  
 ## ✨ Mi objetivo
-Más allá de escribir código, mi objetivo es conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico.
-
-
+Más que escribir código, busco conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico.
 ### 🛠 Skills  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-
 ---
-
 🤝 **Explora mis proyectos ¡y dime qué te parece! Siempre estoy abierta a ideas, colaboraciones y sugerencias.**
 
 
