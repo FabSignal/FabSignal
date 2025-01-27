@@ -9,7 +9,7 @@ Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. C
 En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales.  
 
 ## ✨ Mi objetivo
-Más allá de escribir código, mi objetivo es conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico..
+Más allá de escribir código, mi objetivo es conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico.
 
 
 ### 🛠 Skills  
