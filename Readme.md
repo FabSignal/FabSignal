@@ -1,4 +1,4 @@
-# 👋 ¡ Hola ! 
+# 👋 ¡ Hola !🔍 Aquí hay un poco de mi universo de datos y descubrimientos.
 
 ¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto me define tanto a mí como a mi manera de trabajar.
 
@@ -8,7 +8,8 @@ Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. C
 ## 💻 ¿Qué encontrarás aquí?  
 En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales.  
 
-✨ **Mi objetivo**: Más allá de escribir código, mi objetivo es conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico..
+## ✨ Mi objetivo
+Más allá de escribir código, mi objetivo es conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico..
 
 
 ### 🛠 Skills  
@@ -19,4 +20,4 @@ En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, s
 
 ---
 
-🤝 Explora mis proyectos ¡y dime qué te parece! Siempre estoy abierta a ideas, colaboraciones y sugerencias.
+🤝 **Explora mis proyectos ¡y dime qué te parece! Siempre estoy abierta a ideas, colaboraciones y sugerencias.**
