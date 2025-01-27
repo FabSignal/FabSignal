@@ -1,4 +1,4 @@
-# 👋 ¡ Hola !🔍 Aquí hay un poco de mi universo de datos y descubrimientos.
+# 👋¡Hola, bienvenidos a mi espacio!
 
 ¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto me define tanto a mí como a mi manera de trabajar.
 ## Sobre mí  
