@@ -13,6 +13,6 @@ Conectar ideas, descubrir nuevas posibilidades y convertir preguntas en respuest
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
 ---
-🤝 **Explora mis proyectos ¡y dime qué te parece! Siempre estoy abierta a ideas, colaboraciones y sugerencias.**
+🤝 **¿Te interesa colaborar? Si tienes ideas o comentarios, ¡estaré encantada de escuchar!.**
 
 
