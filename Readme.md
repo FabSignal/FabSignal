@@ -1,6 +1,6 @@
-# 👋 Welcome to my GitHub  
+# 👋 ¡ Hola ! 
 
-¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto guía cada paso de mi camino.  
+¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto me define tanto a mí como a mi manera de trabajar.
 
 ## Sobre mí  
 Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. Combino una sólida formación en matemáticas con herramientas avanzadas de análisis de datos y machine learning. Mi enfoque es estructurado, analítico y orientado a resolver problemas complejos con soluciones funcionales y aplicables.  
@@ -8,9 +8,15 @@ Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. C
 ## 💻 ¿Qué encontrarás aquí?  
 En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales.  
 
-✨ **Mi objetivo**: No solo escribo código, sino que construyo herramientas que unen ideas con impacto práctico.  
+✨ **Mi objetivo**: Más allá de escribir código, mi objetivo es conectar ideas, construir puentes entre preguntas y respuestas, y generar resultados con impacto práctico..
+
+
+### 🛠 Skills  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
 
 ---
 
-🤝 Si algo en mi perfil despierta tu curiosidad, no dudes en contactarme. Estoy siempre lista para aprender, colaborar y llevar el análisis de datos a nuevos horizontes.  
-
+🤝 Explora mis proyectos ¡y dime qué te parece! Siempre estoy abierta a ideas, colaboraciones y sugerencias.
