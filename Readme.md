@@ -4,7 +4,7 @@
 ## Sobre mí  
 Soy Fabiana, estudiante de astronomía en la Universidad Nacional de La Plata. Combino una sólida formación en matemáticas con herramientas modernas de análisis de datos y machine learning. Mi enfoque es estructurado, analítico y orientado a resolver problemas complejos con soluciones funcionales y aplicables.  
 ## 💻 ¿Qué encontrarás aquí?  
-En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales.  
+En este espacio comparto proyectos que no solo reflejan mi capacidad técnica, sino también mi compromiso por conectar conceptos, descubrir nuevas posibilidades y generar resultados reales. 
 ## ✨ Mi propósito
 Conectar ideas, descubrir nuevas posibilidades y convertir preguntas en respuestas útiles para generar impacto.
 ### 🛠 Skills  
