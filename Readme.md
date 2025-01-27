@@ -1,6 +1,6 @@
 # 👋 ¡ Hola !🔍 Aquí hay un poco de mi universo de datos y descubrimientos.
 
-![Header](https://raw.githubusercontent.com/tu-usuario/tu-repositorio/main/header-image.png)
+![Header](https://github.com/FabSignal/FabSignal/blob/main/profile_banner.png).
 
 ¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto me define tanto a mí como a mi manera de trabajar.
 
@@ -24,4 +24,4 @@ Más allá de escribir código, mi objetivo es conectar ideas, construir puentes
 
 🤝 **Explora mis proyectos ¡y dime qué te parece! Siempre estoy abierta a ideas, colaboraciones y sugerencias.**
 
-https://github.com/FabSignal/FabSignal/blob/main/profile_banner.png
+
