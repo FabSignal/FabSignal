@@ -4,7 +4,9 @@
   <img src="assets/space universe GIF by NASA.gif" width="550px" alt="Cosmos" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-<p align="center"><em>GIF NASA</em></p>
+<p align="center">
+  <em>Simulación de disco de acreción - Créditos: <a href="https://giphy.com/gifs/blackhole-space-nasa-2NYZU0jBljelR5FkCz">NASA via GIPHY</a></em>
+</p>
 
 ---
 
