@@ -1,7 +1,7 @@
 # ¡Hola! Bienvenidos a mi espacio 👋
 
 <div align="center">
-  <img src="" width="550px" alt="Cosmos" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <img src="assets/space universe GIF by NASA.gif" width="550px" alt="Cosmos" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
 <p align="center"><em>Rotación de Neptuno captada por la sonda Voyager 2 (NASA)</em></p>
