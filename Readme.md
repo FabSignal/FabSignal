@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Créditos: <a href="https://giphy.com/gifs/blackhole-space-nasa-2NYZU0jBljelR5FkCz">NASA via GIPHY</a></em>
+  <em>Créditos: <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNnaHBmYWtoOXFmd25yMHo5YWRvZnlqOGVqbTc2cTB2d2dsd2h4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj5M4YLaFww31V6/giphy.gif">NASA via GIPHY</a></em>
 </p>
 
 ---
