@@ -1,7 +1,7 @@
 # 👋 ¡Hola, bienvenidos a mi espacio!
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI0a2JyOGQyemk5bjEzZzlrc24yOWFwa293c2Nqem15eW0wYTc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI2VJmmjXXPfpRK/giphy.gif" width="300px" alt="Universo en expansión">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI0a2JyOGQyemk5bjEzZzlrc24yOWFwa293c2Nqem15eW0wYTc2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI2VJmmjXXPfpRK/giphy.gif" width="500px" alt="Universo en expansión">
 </div>
 
 ¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto me define tanto a mí como a mi manera de trabajar.
