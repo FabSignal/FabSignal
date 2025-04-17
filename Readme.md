@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Simulación de disco de acreción - Créditos: <a href="https://giphy.com/gifs/blackhole-space-nasa-2NYZU0jBljelR5FkCz">NASA via GIPHY</a></em>
+  <em>Créditos: <a href="https://giphy.com/gifs/blackhole-space-nasa-2NYZU0jBljelR5FkCz">NASA via GIPHY</a></em>
 </p>
 
 ---
