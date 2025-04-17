@@ -1,10 +1,12 @@
-# 👋¡Hola, bienvenidos a mi espacio!
+# ¡Hola! Bienvenidos a mi espacio 👋
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVnOGlieTM5cTlwamFkcWRmYTB1andtOXU5a3F3ZGwwZ2VnbzdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj5M4YLaFww31V6/giphy.gif" width="550px" alt="Neptuno girando - NASA Voyager 2" style="border-radius: 12px; border: 1px solid rgba(100, 149, 237, 0.4);">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVnOGlieTM5cTlwamFkcWRmYTB1andtOXU5a3F3ZGwwZ2VnbzdpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3dj5M4YLaFww31V6/giphy.gif" width="550px" alt="Neptuno girando - NASA Voyager 2" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
-*Rotación de Neptuno captada por la sonda Voyager 2 (NASA)*
+<p align="center"><em>Rotación de Neptuno captada por la sonda Voyager 2 (NASA)</em></p>
+
+---
 
 🔭¿Te has preguntado cuánto queda por entender, aprender y descubrir en el universo y en el mundo que nos rodea? Esa motivación constante de transformar lo desconocido en conocimiento concreto me define tanto a mí como a mi manera de trabajar.
 ## Sobre mí  
