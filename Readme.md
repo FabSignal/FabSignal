@@ -1,7 +1,7 @@
 # ¡Hola! Bienvenidos a mi espacio 👋
 
 <div align="center">
-  <img src="https://giphy.com/gifs/esawebb-F6Lokfq8hu6y16dVTV" width="550px" alt="Cosmos" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWN4NnhoMjhxZzcxaGExdGMzNWxoYzFjYWl2ZG9oM2VpazRta2JoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI2VJmmjXXPfpRK/giphy.gif" width="550px" alt="Cosmos" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 </div>
 
 <p align="center"><em>Rotación de Neptuno captada por la sonda Voyager 2 (NASA)</em></p>
