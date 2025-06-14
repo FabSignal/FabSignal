@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Créditos: <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE2YzA5aWV6ZTZvdHBsaGVkOWRybnI4bGh4Y2YxeWYwYjNsdXM0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HgkJYVPchxDHO/giphy.gif">NASA via GIPHY</a></em>
+  <em>Credits: <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE2YzA5aWV6ZTZvdHBsaGVkOWRybnI4bGh4Y2YxeWYwYjNsdXM0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HgkJYVPchxDHO/giphy.gif">NASA via GIPHY</a></em>
 </p>
 
 ---
