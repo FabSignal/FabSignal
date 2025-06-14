@@ -1,4 +1,4 @@
-# Welcome! 👋
+#  Welcome to my space! 🛸
 
 <div align="center">
   <img src="assets/galaxiesGIF.gif" width="400px" alt="Cosmos" style="border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
@@ -9,6 +9,10 @@
 </p>
 
 ---
+
+### About me  
+
+Hi! I’m Fabiana 👋
 
 🔭 Always questioning, always analyzing  
 🎯 Ultimate goal: turning raw data into meaningful understanding     
